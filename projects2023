@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<nav>
+  <li> <a href="index.html"> HOME </a></li>
+  <li> <a href="projects.html"> APP LAB </a></li>
+  <li> <a href="https://docs.google.com/document/d/1CuWv-KSJ-pgt8Kq6sZKzWXrTW_yCCrbIxq3kzTU63y8/edit?usp=sharing"> WVHS Schedule </a></li>
+  </nav>
+</head>
+<body>
+  
+  <h2> Why look at Vasu's App Lab Projects?
+    
+   <h3> Because it is based.
+  
+  
+</body>
+
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/GxemCQHFqvjIF74XEFxgUTBwLttUZRU0QA8RhQlbmK4/embed"></iframe>
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/4gTCiXhH4l73PIODPgulrhY1ZyocAtpQq_mZuEpFabc/embed"></iframe>
+    <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/dRIOGzhvHO87GM9MV1e5KB1kUmq6QnOS9kN5P2UCeHA/embed"></iframe>
+    
+</html>
