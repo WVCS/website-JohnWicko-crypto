@@ -2,33 +2,36 @@ h2 {color: #f3570; text-align: center; letter-spacing: -2px;}
 h3 {color: #f3570; text-align: center; letter-spacing: -2px;}
 h1 {color: #f3570; text-align: center; letter-spacing: -2px;}
 
-h5 {
-  text-align: center;
-}
 h2:hover {
-  font-size: 50px;
+  font-size: 100px;
+  text-shadow: 2px 2px 5px red;
+h3:hover {
+  font-size: 100px;
   text-shadow: 2px 2px 5px yellow;
+h1:hover {
+  font-size: 100px;
+  text-shadow: 2px 2px 5px blue;
 }
 
 body {
-  background-color: beige;
+  background-color: orange;
 }
 
 img {
-  width: 300px;
+  width: 100px;
   
 }
 
 img:hover {
-  border: blue 3px;
-  border-radius: 35%;
+  border: green 15px;
+  border-radius: 50%;
 }
 
 
 nav {
   list-style-type: none;
   position: fixed;
-  background-color: #f30600;
+  background-color: #9c23b7;
   width: 100vw;
   top: 0;
   left: 0;
@@ -36,7 +39,7 @@ nav {
 }
 
 li {
-  display: inline;
+  display: down;
   padding: 13px;
 }
 
@@ -46,13 +49,14 @@ a {
 }
 
 li:hover {
-  background-color: orange;
+  background-color: white;
 }
 body {
-  background-color: lightblue;
+  background-color: purple;
 }
-h2 {color: navy;
-  text-align: center; }
+h2 {color: navy;}  
+h3 {color: navy;}  
+h1 {color: navy;}  
   
 img {
     width: 100vh;
